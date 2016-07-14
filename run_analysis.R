@@ -1,4 +1,4 @@
-setwd("~/R/03_getting_data/week4")
+setwd("~/")
 
 # Column names for data frame
 columns <- read.delim("UCI HAR Dataset/features.txt", header = FALSE, sep=" ", stringsAsFactors = FALSE)
